@@ -1,5 +1,5 @@
 body{
-    background: #67BE4B;
+    background: #777984;
 }
 #container{
     width:400px;
@@ -32,7 +32,7 @@ input[type=text], input[type=password] {
 
 /* Set a style for all buttons */
 input[type=submit] {
-    background-color: #53af57;
+    background-color: #364640;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;

@@ -15,8 +15,8 @@
                     echo "Bonjour $user, vous êtes connecté";
                 }
             ?>
-            <button><a href="index.html"> continuer</a></button>
             
         </div>
+        <button><a href="FIL Rouge\question\index.php">continuer</a></button>
     </body>
 </html>
